@@ -1,0 +1,1 @@
+print ('Hola') # print sirve para mandar un mensaje en consola
